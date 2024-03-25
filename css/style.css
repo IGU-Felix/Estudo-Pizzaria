@@ -1,0 +1,39 @@
+#Pizza  {
+            font-size: 45px;
+            font-family: "Shadows Into Light", cursive;
+            font-weight: 400;
+            font-style: normal;
+            padding-left: 5vh;
+            background-color: rgb(196, 67, 67);
+            color: white;
+            
+}
+
+#Pizzaliua  {
+    background-color: rgb(196, 67, 67);
+    color: white;
+    text-align: left;
+    padding-top: 3vh;
+    
+}
+      
+#Bengamole {
+
+    background-color: grey;
+    color: white;
+    list-style:square;
+    padding-left: 20px;
+    width: 400px;
+    height: 570px;
+}
+
+#Cucaracha  {
+
+        background-color: black;
+        color: whitesmoke;
+        list-style:none ;
+        padding-left: 5vh;
+}
+
+
+              
